@@ -15,9 +15,8 @@ The training data consists of a few hundred videos categorised into one of the f
 
 In order to get the data on the storage, perform the following steps in order
 
-Open the terminal
- go down https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
-
- unzip Project_data.zip
+- Open the terminal
+- go down https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
+- unzip Project_data.zip
 
  
